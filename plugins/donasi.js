@@ -24,14 +24,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '📸Instagram',
-               url: 'https://instagram.com/inizenscuy'
+               url: 'https://instagram.com/yxbxrock'
              }
 
            },
                {
              callButton: {
-               displayText: 'Gopay',
-               phoneNumber: '6289-56046-70507'
+               displayText: 'Dana',
+               phoneNumber: '0823-6508-9294'
              }
            },           
                {
